@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Backend opportunities<br>🌱 I’m currently learning NodeJS and have made 2 backend projects too<br>🔭 Made projects like  #Game in C++  ,  # Cloned a Awwwards winner  , #NotesBackend , URL_Shortner<br>💬 Ask me about anything <br>⚡ Fun fact : I can work on any technology if provided with any reward or deadline
+👯 I’m looking to collaborate on Backend opportunities<br>🌱 Currently building products in tech<br>🔭 Developed scalable backends <br>💬 Ask me about anything <br>
 
 
 ## 🌐 Socials:
