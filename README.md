@@ -9,9 +9,10 @@
 # 💫 About Me:
 Backend & AI engineer. I build realtime systems and the infrastructure they run on.
 
-I like my sockets long-lived, my deploys boring, and my p99s honest — if you can't measure it, you shipped a guess.
+I like my sockets long-lived, my deploys boring, and my p99s honest. If you can't measure it, you shipped a guess.
 
-👯 I’m looking to collaborate on Backend opportunities<br>🌱 Currently building products in tech<br>🔭 Developed scalable backends <br>💬 Ask me about anything <br>
+🌱 Currently one of two engineers on an early-stage product, which means I own the architecture, the backend, the deploy, and whatever breaks at 2am<br>
+🔭 Mostly Node/TypeScript and Python, with a lot of WebSockets. Docker does the rest<br>
 
 
 ## 🌐 Socials:
